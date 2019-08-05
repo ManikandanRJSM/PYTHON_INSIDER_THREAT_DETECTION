@@ -1,0 +1,10 @@
+required scripts:
+
+pandas
+matploit
+pymysql
+numpy
+keras
+tensorflow
+virtualenv 
+locustio
